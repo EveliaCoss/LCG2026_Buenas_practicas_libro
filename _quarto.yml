@@ -1,0 +1,33 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Buenas prácticas en Bioinformática"
+  author: "Dra. Evelia Coss"
+  date: "02/17/2026"
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - Parte3.qmd
+    - Parte4.qmd
+  # Information
+  repo-url: https://github.com/EveliaCoss/LCG2025_IntroBioinfo_S1 # link de Github
+  sharing: [twitter, facebook, linkedin]
+  # favicon: "rsgMexico.jpeg" # icono de la pagina en pestana
+
+
+format:
+  html:
+    toc-depth: 4
+    number-depth: 3
+  # Boton para cambiar tema de oscuro a claro
+    theme:
+      light: cosmo
+      dark: darkly
+    code-fold: show # Ocultar codigo
+    code-copy: true # Copy button
+    freeze: false  # Desactivar congelamiento
+
+editor: visual
+
