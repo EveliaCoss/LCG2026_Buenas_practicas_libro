@@ -7,29 +7,34 @@
 -   ::: {.panel-tabset group="globalInfo"}
     ### Sobre el curso 📌
 
-    -   **Semestre:** 1ero
-    -   **Fechas:** agosto-diciembre
-    -   **Lugar:** LIIGH-UNAM
+    -   **Semestre:** 4to
+    -   **Fechas:** 17 y 19 de febrero, 2026
+    -   **Lugar:** Aula 2, LIIGH-UNAM
     -   **Duración del curso:** 2 horas por clase
 
-    #### **Instructores:**
+    #### **Instructora:**
 
-    -   **Jair Santiago García Sotelo** - Técnico académico, LIIGH-UNAM.
     -   **Evelia Lorena Coss-Navarrete** - PostDoc, LIIGH-UNAM. [Pagina web](https://eveliacoss.github.io/)
 
     #### **Resumen:**
 
-    En este curso se abordarán los conceptos fundamentales para el uso y manejo de las herramientas bioinformáticas básicas más relevantes y comúnmente empleadas en el área. Se incluirá el manejo adecuado del **sistema operativo Linux, el uso de bases de datos biológicas, la manipulación de secuencias, así como la creación de programas con funcionalidades sencillas aplicables tanto a la bioinformática como a la programación general.**
+    **En este curso aprenderás** a aplicar buenas prácticas en bioinformática, siguiendo los principios FAIR y la reproducibilidad científica. Documentarás correctamente tu código y crearás un README profesional en GitHub. Además, obtendrás tu propio dominio en GitHub Pages y aprenderás a construir tu página web académica usando RStudio y GitHub Pages, fortaleciendo tu identidad digital y la visibilidad de tus proyectos.
 
     #### **Objetivos:**
 
     En esta curso aprenderás a:
 
-    1.  Mis primeros pasos en bash.
-    2.  Consultar información detallada sobre archivos y directorios utilizando herramientas del sistema operativo Linux.
-    3.  Permisos y como cambiarlos.
-    4.  Diseñar y ejecutar scripts completos en Bash para automatizar tareas bioinformáticas.
-    5.  Realizar búsquedas de patrones en secuencias genéticas utilizando expresiones regulares y herramientas de línea de comandos.
+    -   Buenas prácticas en Bioinformática
+
+    -   Principios FAIR y reproducibilidad cientifica
+
+    -   Correcta documentación de tu código.
+
+    -   Crear tu README profile en GitHub.
+
+    -   Obtener tu propio dominio en GitHub pages.
+
+    -   Crear tu propia página web con Rstudio y GitHub pages.
 
     ## Citar y reutilizar el material del curso
 
@@ -37,23 +42,12 @@
 
     ### Requisitos previos
 
-    -   Debes contar con el sistema operativo Linux instalado **o** disponer de una terminal Bash Shell funcional en tu sistema operativo. Para más detalles sobre cómo instalar o configurar estos componentes, consulta la sección *Instalaciones y requerimientos previos*.
+    -   Contar con Rstudio y una cuenta en GitHub.
 
     ### Agenda 📆 {#agenda}
 
-    +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-    | Temas                                                                                                                                                                                                                              | Fechas         |
-    +====================================================================================================================================================================================================================================+:==============:+
-    | -   [Introducción a la bioinformática](https://lcg-cursos.github.io/material/introbioinfo/L3-shell.html#1)                                                                                                                         | 12 agosto      |
-    +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-    | -   [Conceptos Unix y GNU/Linux](https://lcg-cursos.github.io/material/introbioinfo/L3-shell.html#20) e instalación del sistema operativo                                                                                          | 14 agosto      |
-    +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-    | -   Mis primeros pasos en Bash ([archivos](https://lcg-cursos.github.io/material/introbioinfo/L3-shell.html#70) y [permisos](https://lcg-cursos.github.io/material/introbioinfo/L3-shell.html#90)) y creación de scripts completos | 19 y 21 agosto |
-    +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-    | -   [Buenas prácticas en Bioinformática](https://eveliacoss.github.io/LCG2025_S1_Buenaspracticas_presentacion/Dia1_BuenasPracticas.html#1)                                                                                         | 26 agosto      |
-    +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-    | -   Introducción a Markdown                                                                                                                                                                                                        | 28 agosto      |
-    +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-    |                                                                                                                                                                                                                                    |                |
-    +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+
+    | Temas                                  |    Fechas     |
+    |----------------------------------------|:-------------:|
+    | **Buenas prácticas en Bioinformática** | 17 de febrero |
+    | **Introducción a Quarto**              | 19 de febrero |
     :::

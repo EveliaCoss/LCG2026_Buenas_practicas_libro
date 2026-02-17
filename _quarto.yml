@@ -9,8 +9,12 @@ book:
   page-navigation: true
   chapters:
     - index.qmd
-    - Parte3.qmd
-    - Parte4.qmd
+    - D1_Buenaspracticas.qmd
+    - D1_actividades1y2.qmd
+    - repaso_Markdown.qmd
+    - D2_actividades3.qmd
+    - D2_Quarto.qmd
+    - D2_actividades4y5.qmd
   # Information
   repo-url: https://github.com/EveliaCoss/LCG2025_IntroBioinfo_S1 # link de Github
   sharing: [twitter, facebook, linkedin]

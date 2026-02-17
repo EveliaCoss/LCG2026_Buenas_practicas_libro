@@ -1,0 +1,124 @@
+# **📚** Actividad 3: Página web con Rmarkdown
+
+**Fecha:** 19 de febrero, 2026
+
+![](images/clipboard-1640307360.png){fig-align="center" width="503"}
+
+Imagen tomada de: [Allison Horst](https://allisonhorst.com/git-github)
+
+### ¿Qué es un RProject y por qué usarlo?
+
+-   **Carpeta de trabajo dedicada**: al crear un RProject, RStudio genera automáticamente una carpeta que contiene todos los archivos y configuraciones necesarias para tu proyecto.
+
+-   **Organización**: te permite mantener en un solo lugar tus scripts, datos, variables y documentos relacionados.
+
+-   **Reproducibilidad**: facilita que cualquier persona (incluido tú en el futuro) pueda abrir el proyecto y trabajar con el mismo entorno.
+
+-   **Integración con Git/GitHub**: al tener el mismo nombre que tu repositorio, se asegura una sincronización más clara y ordenada entre tu proyecto local y el repositorio remoto.
+
+![](images/clipboard-3718600223.png){width="737"}
+
+Imagen tomada de: [Allison Horst](https://allisonhorst.com/git-github)
+
+# Actividades 3A y 3B
+
+[![](images/clipboard-302116819.png)](https://allisonhorst.com/horst-hill-collaborations)
+
+Imagen tomada de: [Allison Horst](https://allisonhorst.com/horst-hill-collaborations)
+
+::: callout-note
+## **📚** Actividad 3A: Crear un Rproject para el repositorio de GitHub
+
+1.  Da clic en **File/New project.**
+2.  Coloca el mismo nombre del repositorio que creamos en GitHub, debe llamadarse **usuario.github.io,** en mi ejemplo sería: **EveliaCoss.github.io.**
+3.  Checar que tengamos una carpeta con este nombre y un Rproject como el que se muestra acontinuación.
+:::
+
+![](images/clipboard-1393911157.png){fig-align="center" width="244"}
+
+::: callout-note
+## **📚** Actividad 3B: Obtener plantilla para la página web
+
+1.  Descarga el archivo [index.Rmd](https://github.com/EveliaCoss/EveliaCoss.github.io/blob/main/index.Rmd) dentro de la misma carpeta que dice **usuario.github.io**.
+2.  Abrir el archivo [index.Rmd](https://github.com/EveliaCoss/EveliaCoss.github.io/blob/main/index.Rmd) dentro de tu Rproject.
+3.  Modificalo con tu información.
+:::
+
+# **📚** Actividad 3C: Ediciones paso a paso en el YAML
+
+Instalar los paquetes:
+
+```{r, eval=FALSE}
+install.packages("postcards")
+install.packages("fontawesome")
+```
+
+Vamos a modificar paso a paso el YAML encontrado este archivo [index.Rmd](https://github.com/EveliaCoss/EveliaCoss.github.io/blob/main/index.Rmd).
+
+1.  Modifica tu nombre y agrega tu fotografía.
+
+```         
+---
+title: "Evelia Coss" # <- Cambia por tu nombre
+image: "yo_azul.jpg" # <- Coloca tu foto, recuerda checar la extensión del archivo
+```
+
+Esta siguiente parte configura los botones que aparecen en tu página web, los que ves aquí:
+
+![](images/clipboard-2215590841.png)
+
+Los **botones** se componen de 3 cosas:
+
+-   `url`: la dirección web que apunta a la red social o página deseada.
+-   `label`**(etiqueta)**: el texto visible del botón, que puede incluir tanto el nombre como el ícono.
+-   ícono: un símbolo gráfico proveniente de [**Font Awesome**](https://fontawesome.com/), renderizado en R mediante el paquete `fontawesome`.
+
+De esta forma, el botón combina funcionalidad (el enlace), legibilidad (la etiqueta) y diseño visual (el ícono), ofreciendo una experiencia más atractiva y clara para el usuario.
+
+2.  Ahora, modifica el `url` agregando tu información:
+
+```         
+links:
+  - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
+    url: "https://www.linkedin.com/in/evelia-lorena-coss-navarrete-562226229/"
+  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
+    url: "https://twitter.com/EveliaCoss/"
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/EveliaCoss/"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "mailto:ecoss@liigh.unam.mx"
+  - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
+    url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
+```
+
+::: callout-note
+Si quieres buscar otro ícono puedes buscarlo directamente en la página web [Font Awesome](https://fontawesome.com/). Solo si aparece podriamos agregarlo.
+:::
+
+3.  Modificar el **estilo** del postcards entrando al sitio web de [postcards](https://github.com/seankross/postcards).
+
+Cambia el nombre de `jolla` por otro.
+
+```         
+output:
+  postcards::jolla
+---  
+```
+
+::: callout-caution
+El estilo `onofre` tiene problemas para renderizarse bien.
+:::
+
+4.  Da clic en Knit o en la bolita de estambre.
+5.  Guarda los cambios en GitHub a través de Rstudio.
+6.  Visualiza tu pagina web en línea, en mi casi es desde: <https://eveliacoss.github.io/>
+
+![](images/clipboard-969675420.png)
+
+Imagen tomada de: [Allison Horst](https://allisonhorst.com/horst-hill-collaborations)
+
+## Referencias
+
+-   [Allison Horst](https://allisonhorst.com/horst-hill-collaborations)
+-   <https://github.com/EveliaCoss/EveliaCoss.github.io>
+-   [postcards](https://github.com/seankross/postcards)

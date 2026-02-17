@@ -4,24 +4,24 @@
     "href": "index.html",
     "title": "Buenas prácticas en Bioinformática",
     "section": "",
-    "text": "Información general\n\n\nSobre el curso 📌Requisitos previosAgenda 📆\n\n\n\nSemestre: 1ero\nFechas: agosto-diciembre\nLugar: LIIGH-UNAM\nDuración del curso: 2 horas por clase\n\nInstructores:\n\nJair Santiago García Sotelo - Técnico académico, LIIGH-UNAM.\nEvelia Lorena Coss-Navarrete - PostDoc, LIIGH-UNAM. Pagina web\n\nResumen:\nEn este curso se abordarán los conceptos fundamentales para el uso y manejo de las herramientas bioinformáticas básicas más relevantes y comúnmente empleadas en el área. Se incluirá el manejo adecuado del sistema operativo Linux, el uso de bases de datos biológicas, la manipulación de secuencias, así como la creación de programas con funcionalidades sencillas aplicables tanto a la bioinformática como a la programación general.\nObjetivos:\nEn esta curso aprenderás a:\n\nMis primeros pasos en bash.\nConsultar información detallada sobre archivos y directorios utilizando herramientas del sistema operativo Linux.\nPermisos y como cambiarlos.\nDiseñar y ejecutar scripts completos en Bash para automatizar tareas bioinformáticas.\nRealizar búsquedas de patrones en secuencias genéticas utilizando expresiones regulares y herramientas de línea de comandos.\n\nCitar y reutilizar el material del curso\nLos datos del curso se pueden reutilizar y adaptar libremente con la debida atribución. Todos los datos de los cursos de estos repositorios están sujetos a la licencia Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).\n\n\n\nDebes contar con el sistema operativo Linux instalado o disponer de una terminal Bash Shell funcional en tu sistema operativo. Para más detalles sobre cómo instalar o configurar estos componentes, consulta la sección Instalaciones y requerimientos previos.\n\n\n\n\n\n\nTemas\nFechas\n\n\n\n\n\nIntroducción a la bioinformática\n\n12 agosto\n\n\n\nConceptos Unix y GNU/Linux e instalación del sistema operativo\n\n14 agosto\n\n\n\nMis primeros pasos en Bash (archivos y permisos) y creación de scripts completos\n\n19 y 21 agosto\n\n\n\nBuenas prácticas en Bioinformática\n\n26 agosto\n\n\n\nIntroducción a Markdown\n\n28 agosto",
+    "text": "Información general\n\n\nSobre el curso 📌Requisitos previosAgenda 📆\n\n\n\nSemestre: 4to\nFechas: 17 y 19 de febrero, 2026\nLugar: Aula 2, LIIGH-UNAM\nDuración del curso: 2 horas por clase\n\nInstructora:\n\nEvelia Lorena Coss-Navarrete - PostDoc, LIIGH-UNAM. Pagina web\n\nResumen:\nEn este curso aprenderás a aplicar buenas prácticas en bioinformática, siguiendo los principios FAIR y la reproducibilidad científica. Documentarás correctamente tu código y crearás un README profesional en GitHub. Además, obtendrás tu propio dominio en GitHub Pages y aprenderás a construir tu página web académica usando RStudio y GitHub Pages, fortaleciendo tu identidad digital y la visibilidad de tus proyectos.\nObjetivos:\nEn esta curso aprenderás a:\n\nBuenas prácticas en Bioinformática\nPrincipios FAIR y reproducibilidad cientifica\nCorrecta documentación de tu código.\nCrear tu README profile en GitHub.\nObtener tu propio dominio en GitHub pages.\nCrear tu propia página web con Rstudio y GitHub pages.\n\nCitar y reutilizar el material del curso\nLos datos del curso se pueden reutilizar y adaptar libremente con la debida atribución. Todos los datos de los cursos de estos repositorios están sujetos a la licencia Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).\n\n\n\nContar con Rstudio y una cuenta en GitHub.\n\n\n\n\n\n\nTemas\nFechas\n\n\n\n\nBuenas prácticas en Bioinformática\n17 de febrero\n\n\nIntroducción a Quarto\n19 de febrero",
     "crumbs": [
       "Información general"
     ]
   },
   {
-    "objectID": "Parte3.html",
-    "href": "Parte3.html",
+    "objectID": "D1_Buenaspracticas.html",
+    "href": "D1_Buenaspracticas.html",
     "title": "1  Buenas prácticas en bioinformática",
     "section": "",
-    "text": "1.1 Materiales informativos\nNotas personales recabadas a partir de los tutoriales y ejemplos 😊. Espero que les funcione 💜\n💪 Estuve muy intensa viendo su codigo. Muchas gracias por tenerlos publico.",
+    "text": "1.1 Materiales informativos\nFecha: 17 de febrero, 2026\nNotas personales recabadas a partir de los tutoriales y ejemplos 😊. Espero que les funcione 💜\n💪 Estuve muy intensa viendo su codigo. Muchas gracias por tenerlos publico.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Buenas prácticas en bioinformática</span>"
     ]
   },
   {
-    "objectID": "Parte3.html#materiales-informativos",
-    "href": "Parte3.html#materiales-informativos",
+    "objectID": "D1_Buenaspracticas.html#materiales-informativos",
+    "href": "D1_Buenaspracticas.html#materiales-informativos",
     "title": "1  Buenas prácticas en bioinformática",
     "section": "",
     "text": "Curso de Joselyn Cristina Chávez Fuentes\nMe ayudo mucho este Video\nDocumentación de funciones de Andrés Arredondo Cruz",
@@ -30,8 +30,8 @@
     ]
   },
   {
-    "objectID": "Parte3.html#un-algoritmo-nos-permite-resolver-un-problema",
-    "href": "Parte3.html#un-algoritmo-nos-permite-resolver-un-problema",
+    "objectID": "D1_Buenaspracticas.html#un-algoritmo-nos-permite-resolver-un-problema",
+    "href": "D1_Buenaspracticas.html#un-algoritmo-nos-permite-resolver-un-problema",
     "title": "1  Buenas prácticas en bioinformática",
     "section": "1.2 Un algoritmo nos permite resolver un problema ⭐",
     "text": "1.2 Un algoritmo nos permite resolver un problema ⭐\nUn algoritmo es un método para resolver un problema mediante una serie de pasos definidos, precisos y finitos.\n\nDefinido: si se sigue dos veces, se obtiene el mismo resultado. Es reproducible.\nPreciso: implica el orden de realización de cada uno de los pasos.\nFinito: Tiene un numero determinado de pasos, implica que tiene un fin.\n\n\nUn algoritmo podemos definirlo como un programa o software.",
@@ -40,8 +40,8 @@
     ]
   },
   {
-    "objectID": "Parte3.html#para-escribir-un-buen-software-necesitas",
-    "href": "Parte3.html#para-escribir-un-buen-software-necesitas",
+    "objectID": "D1_Buenaspracticas.html#para-escribir-un-buen-software-necesitas",
+    "href": "D1_Buenaspracticas.html#para-escribir-un-buen-software-necesitas",
     "title": "1  Buenas prácticas en bioinformática",
     "section": "1.3 Para escribir un buen software necesitas:",
     "text": "1.3 Para escribir un buen software necesitas:\n\nEscribir código mantenible (maintainable code), usar control de versiones (version control) y rastreadores de problemas (issue trackers), revisiones de código (code reviews), pruebas unitarias (unit testing) y automatización de tareas (task automation).\nWilson, et al. 2014. PLOS Biology\n\nEn bioinformática, es fundamental garantizar el uso ético y responsable de datos sensibles, como los genomas humanos, respetando la privacidad y los marcos legales vigentes. Al mismo tiempo, se debe fomentar la ciencia abierta mediante prácticas transparentes y reproducibles, sin comprometer la integridad de la información. Estas acciones no solo fortalecen la confianza en los resultados, sino que también previenen errores graves que podrían derivar en la retracción de artículos científicos.\n\n\n\n\n\n\n\n\n\n\n\nNotePasos para escribir un buen software\n\n\n\n\nAnálisis del problema / Definir el problema\nDiseño del algoritmo / Diseño del programa\nCodificación / Escribir el código\nCompilación y ejecución del programa\nVerificación / Realizar pruebas\nDepuración / Detectar los errores y corregirlos\n\n\nProgramacion defensiva\n\n\nDocumentación",
@@ -50,8 +50,8 @@
     ]
   },
   {
-    "objectID": "Parte3.html#paso-7-documentación",
-    "href": "Parte3.html#paso-7-documentación",
+    "objectID": "D1_Buenaspracticas.html#paso-7-documentación",
+    "href": "D1_Buenaspracticas.html#paso-7-documentación",
     "title": "1  Buenas prácticas en bioinformática",
     "section": "1.4 Paso 7: Documentación",
     "text": "1.4 Paso 7: Documentación\n\n\n\n\n\n\nNote\n\n\n\n\nTítulo (opcional)\nAutor (author): Su nombre\nDia (date): Fecha de creación\nPaquetes (packages)\nDirectorio de trabajo (Working directory): En que carpeta se encuentra tu datos y programa.\nInformación descriptiva del programa (Description): ¿Para qué sirve el programa? Ej: El siguiente programa realiza la suma de dos numeros enteros a partir de la entrada del usuario y posteriormente la imprime en pantalla.\nUsage ¿Cómo se utiliza?\nArgumentos (Arguments)\n\nInformación de entrada (Data Inputs): Ej: Solo numeros enteros (sin decimales).\nInformación de salida (Outpus): Graficas, figuras, tablas, etc.",
@@ -60,8 +60,8 @@
     ]
   },
   {
-    "objectID": "Parte3.html#puntos-claves-para-buenas-prácticas-en-bioinfo",
-    "href": "Parte3.html#puntos-claves-para-buenas-prácticas-en-bioinfo",
+    "objectID": "D1_Buenaspracticas.html#puntos-claves-para-buenas-prácticas-en-bioinfo",
+    "href": "D1_Buenaspracticas.html#puntos-claves-para-buenas-prácticas-en-bioinfo",
     "title": "1  Buenas prácticas en bioinformática",
     "section": "1.5 Puntos claves para buenas prácticas en bioinfo ⭐",
     "text": "1.5 Puntos claves para buenas prácticas en bioinfo ⭐\n\nEscriba programas para personas, no para computadoras (Documenta qué hace y por qué). - Se coherente en la nomenclatura, indentación y otros aspectos del estilo.\nModularidad: Divide los programas en funciones cortas de un solo propósito. 💻 📚\nNo repitas tu código. Crea pasos reproducibles o que se repitan por si solas. ➰\nPlanifique los errores (Programacion defensiva) 🚩\nOptimice el software sólo después de que funcione correctamente. - Si funciona no lo modifiques, simplificalo.\nColaborar - Busque siempre bibliotecas de software bien mantenidas que hagan lo que necesita. 👥\n\n\n\n\n\n\n\nNoteEjemplo de como realizo mis documentos 💜\n\n\n\nAqui les dejo el script que les doy a mis alumnos VisualizacionDatos.R del curso de Análisis de datos de RNA-Seq.",
@@ -70,8 +70,8 @@
     ]
   },
   {
-    "objectID": "Parte3.html#referencias",
-    "href": "Parte3.html#referencias",
+    "objectID": "D1_Buenaspracticas.html#referencias",
+    "href": "D1_Buenaspracticas.html#referencias",
     "title": "1  Buenas prácticas en bioinformática",
     "section": "1.6 Referencias",
     "text": "1.6 Referencias\n\nPresentación de Reproducibilidad de Miriam Lerma\nPresentación introducción a Git, GitHub y Zenodo de Miriam Lerma\nPresentación de Introducción a la Bioinformática - Heladia Salgado\nMi próximo artículo científico en R de Florencia D´Andrea\nKristie Reproducible Research\nPresentación de Kristie\nFAIR- bioinformatic\nUnidad 1 Bioinformática e investigación reproducible\nThe five pillars of computational reproducibility: bioinformatics and beyond\nInvestigación reproducible y análisis de datos\nHaydee tutorial: Temas Selectos de Análisis Numérico y Computación Científica: Computo científico para el análisis de datos\nAlejandra Medina tutorial: Control de versiones con GitHub y RStudio\nWilson, et al. 2014. Best Practices for Scientific Computing. PLOS Biology\nEvelia Coss - tutorial Buenas practicas en R\nEvelia Coss - Make your CV tutorial\nMarkdwn Guide - Getting Started\nAllison Horst - Imagenes\nStatistical Computing using R and Python\nTraining Materials\nVisual Studio Code\nArticulo reproducibilidad",
@@ -80,173 +80,263 @@
     ]
   },
   {
-    "objectID": "Parte4.html",
-    "href": "Parte4.html",
-    "title": "2  Introducción a Markdown",
+    "objectID": "D1_actividades1y2.html",
+    "href": "D1_actividades1y2.html",
+    "title": "2  📚 Actividad 1 y 2",
     "section": "",
-    "text": "2.1 ¿Qué es Markdown?\nMarkdown es un lenguaje de marcado ligero que permite añadir elementos de formato a documentos de texto plano. Creado por John Gruber en 2004, Markdown es actualmente uno de los lenguajes más populares del mundo.",
+    "text": "2.1 📚 Actividad 1: Miniresumen personal + foto para tu repositorio\nFecha: 17 de febrero, 2026",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción a Markdown</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>**📚** Actividad 1 y 2</span>"
     ]
   },
   {
-    "objectID": "Parte4.html#qué-es-markdown",
-    "href": "Parte4.html#qué-es-markdown",
-    "title": "2  Introducción a Markdown",
+    "objectID": "D1_actividades1y2.html#actividad-1-miniresumen-personal-foto-para-tu-repositorio",
+    "href": "D1_actividades1y2.html#actividad-1-miniresumen-personal-foto-para-tu-repositorio",
+    "title": "2  📚 Actividad 1 y 2",
+    "section": "",
+    "text": "Escribe un miniresumen en texto plano sobre ti. Debe tener entre 5 y 10 líneas.\nPuedes usar emojis para representar tus gustos, intereses o personalidad\nEl texto debe incluir:\n\nTus intereses académicos o personales\nQué te gusta hacer en tu tiempo libre\nQué te motiva a aprender ciencia o programación\nAlgún dato curioso o divertido sobre ti\n\n\n\n\n\n\n\n\nNoteActividad paso a paso\n\n\n\nPuedes aprender a realizar esta actividad paso a paso, siguiendo este tutorial.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>**📚** Actividad 1 y 2</span>"
+    ]
+  },
+  {
+    "objectID": "D1_actividades1y2.html#actividad-2-crear-un-sitio-de-páginas-de-github-nuestro-dominio",
+    "href": "D1_actividades1y2.html#actividad-2-crear-un-sitio-de-páginas-de-github-nuestro-dominio",
+    "title": "2  📚 Actividad 1 y 2",
+    "section": "2.2 📚 Actividad 2: Crear un sitio de Páginas de GitHub (nuestro dominio)",
+    "text": "2.2 📚 Actividad 2: Crear un sitio de Páginas de GitHub (nuestro dominio)\n\nCrear un repositorio con el mismo nombre de usuario colocando: usuario.github.io.\n\n\n\nConfigura el repositorio como Público.\nAgrega un README (opcional).\nHaz clic en Create repository (Crear repositorio).\nPosteriormente ir a Settings del repositorio &gt; Pages. Y aquí encontraremos el URL de nuestro sitio web.\n\n\n\n\n\n\n\n\nNote\n\n\n\nEn este punto de la clase debemos tener dos repositorios con los siguientes nombres:\n\nEveliaCoss/EveliaCoss: Que va a contener el README de inicio de nuestro perfil.\nEveliaCoss/EveliaCoss.github.io: Contendra nuestro dominio para los sitios web.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>**📚** Actividad 1 y 2</span>"
+    ]
+  },
+  {
+    "objectID": "D1_actividades1y2.html#tareas",
+    "href": "D1_actividades1y2.html#tareas",
+    "title": "2  📚 Actividad 1 y 2",
+    "section": "2.3 📌 Tareas",
+    "text": "2.3 📌 Tareas\nTraer para la Próxima clase: 19 de febrero, 2026, vamos a crear nuestra página web empleando GitHub pages, por lo que deben traer:\n\nSincronizar su GitHub con Rstudio, revisar el material de Conectar a GitHub con SSH.\nTraer una foto y su miniresumen para crear su página web con GitHub pages\n\nEjemplo del Sitio Web que haremos en la siguiente clase:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>**📚** Actividad 1 y 2</span>"
+    ]
+  },
+  {
+    "objectID": "D1_actividades1y2.html#referencias",
+    "href": "D1_actividades1y2.html#referencias",
+    "title": "2  📚 Actividad 1 y 2",
+    "section": "2.4 Referencias",
+    "text": "2.4 Referencias\n\nGitHub pages\nGitHub Profile README Generator",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>**📚** Actividad 1 y 2</span>"
+    ]
+  },
+  {
+    "objectID": "repaso_Markdown.html",
+    "href": "repaso_Markdown.html",
+    "title": "3  Repaso: Introducción a Markdown",
+    "section": "",
+    "text": "3.1 ¿Qué es Markdown?\nMarkdown es un lenguaje de marcado ligero que permite añadir elementos de formato a documentos de texto plano. Creado por John Gruber en 2004, Markdown es actualmente uno de los lenguajes más populares del mundo.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Repaso: Introducción a Markdown</span>"
+    ]
+  },
+  {
+    "objectID": "repaso_Markdown.html#qué-es-markdown",
+    "href": "repaso_Markdown.html#qué-es-markdown",
+    "title": "3  Repaso: Introducción a Markdown",
     "section": "",
     "text": "Sencillo y legible, sin necesidad de usar editores complicados o HTML.\nlenguaje de marcado ligero: Escribir texto que incluye instrucciones simples para darle formato.\n\n\n\n\n\n\n\nNote🧩 ¿Por qué se llama “ligero”?\n\n\n\nPorque:\n\nUsa símbolos sencillos como *, #, o - para indicar formato.\nNo requiere cerrar etiquetas como &lt;strong&gt; o &lt;div&gt; (como en HTML).\nEs minimalista y limpio, ideal para escribir rápido sin distracciones.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción a Markdown</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Repaso: Introducción a Markdown</span>"
     ]
   },
   {
-    "objectID": "Parte4.html#para-qué-se-usa",
-    "href": "Parte4.html#para-qué-se-usa",
-    "title": "2  Introducción a Markdown",
-    "section": "2.2 🧠 ¿Para qué se usa?",
-    "text": "2.2 🧠 ¿Para qué se usa?\n\nCrear documentación técnica o científica\nEscribir README.md en proyectos de GitHub\nGenerar contenido para sitios web\nCrear tesis, notas, libros, presentaciones y posters\n\nEn R\n\n\n\nPaquete / Programa\nUso principal\n\n\n\n\nrmarkdown\nCrear documentos reproducibles con texto, código y resultados\n\n\nknitr\nEjecutar chunks de código en RMarkdown\n\n\nQuarto\nPlataforma moderna para documentos con R, Python, etc.\n\n\nbookdown\nCrear libros técnicos con Markdown + RMarkdown\n\n\nblogdown\nGenerar blogs científicos usando Markdown y Hugo\n\n\nflexdashboard\nDashboards interactivos escritos en Markdown\n\n\n\nEn Python\n\n\n\n\n\n\n\nPaquete / Programa\nUso principal\n\n\n\n\nJupyter Notebooks\nCeldas Markdown para explicar y documentar junto con código\n\n\nQuarto\nIgual que en R, permite combinar Markdown con código Python\n\n\nmkdocs\nGenerar sitios web de documentación técnica desde archivos Markdown\n\n\nSphinx + MyST\nDocumentación avanzada con soporte para Markdown\n\n\nmarkdown, mistune\nLibrerías para convertir Markdown a HTML\n\n\nnbconvert\nExportar notebooks con Markdown a PDF, HTML, LaTeX, etc.",
+    "objectID": "repaso_Markdown.html#para-qué-se-usa",
+    "href": "repaso_Markdown.html#para-qué-se-usa",
+    "title": "3  Repaso: Introducción a Markdown",
+    "section": "3.2 🧠 ¿Para qué se usa?",
+    "text": "3.2 🧠 ¿Para qué se usa?\n\nCrear documentación técnica o científica\nEscribir README.md en proyectos de GitHub\nGenerar contenido para sitios web\nCrear tesis, notas, libros, presentaciones y posters\n\nEn R\n\n\n\nPaquete / Programa\nUso principal\n\n\n\n\nrmarkdown\nCrear documentos reproducibles con texto, código y resultados\n\n\nknitr\nEjecutar chunks de código en RMarkdown\n\n\nQuarto\nPlataforma moderna para documentos con R, Python, etc.\n\n\nbookdown\nCrear libros técnicos con Markdown + RMarkdown\n\n\nblogdown\nGenerar blogs científicos usando Markdown y Hugo\n\n\nflexdashboard\nDashboards interactivos escritos en Markdown\n\n\n\nEn Python\n\n\n\n\n\n\n\nPaquete / Programa\nUso principal\n\n\n\n\nJupyter Notebooks\nCeldas Markdown para explicar y documentar junto con código\n\n\nQuarto\nIgual que en R, permite combinar Markdown con código Python\n\n\nmkdocs\nGenerar sitios web de documentación técnica desde archivos Markdown\n\n\nSphinx + MyST\nDocumentación avanzada con soporte para Markdown\n\n\nmarkdown, mistune\nLibrerías para convertir Markdown a HTML\n\n\nnbconvert\nExportar notebooks con Markdown a PDF, HTML, LaTeX, etc.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción a Markdown</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Repaso: Introducción a Markdown</span>"
     ]
   },
   {
-    "objectID": "Parte4.html#cómo-funciona",
-    "href": "Parte4.html#cómo-funciona",
-    "title": "2  Introducción a Markdown",
-    "section": "2.3 ¿Cómo funciona?",
-    "text": "2.3 ¿Cómo funciona?\nPasos generales:\n\nCrear un archivo Markdown con un editor de texto o una aplicación específica. El archivo debe tener la extensión .md o .markdown.\nSe abre el archivo Markdown en una aplicación Markdown.\nSe utiliza la aplicación Markdown para convertir el archivo Markdown en un documento HTML.\nVisualización del archivo HTML en un navegador web o use la aplicación Markdown para convertirlo a otro formato de archivo, como PDF.\n\n\n\n\n\n\n\nNote\n\n\n\nLa aplicación y el procesador de Markdown son dos componentes independientes. Para simplificar, los he combinado en un solo elemento (“aplicación de Markdown”) en la figura a continuación.\n\n\n\n\n\nImagen tomada de: https://www.markdownguide.org/getting-started/",
+    "objectID": "repaso_Markdown.html#cómo-funciona",
+    "href": "repaso_Markdown.html#cómo-funciona",
+    "title": "3  Repaso: Introducción a Markdown",
+    "section": "3.3 ¿Cómo funciona?",
+    "text": "3.3 ¿Cómo funciona?\nPasos generales:\n\nCrear un archivo Markdown con un editor de texto o una aplicación específica. El archivo debe tener la extensión .md o .markdown.\nSe abre el archivo Markdown en una aplicación Markdown.\nSe utiliza la aplicación Markdown para convertir el archivo Markdown en un documento HTML.\nVisualización del archivo HTML en un navegador web o use la aplicación Markdown para convertirlo a otro formato de archivo, como PDF.\n\n\n\n\n\n\n\nNote\n\n\n\nLa aplicación y el procesador de Markdown son dos componentes independientes. Para simplificar, los he combinado en un solo elemento (“aplicación de Markdown”) en la figura a continuación.\n\n\n\n\n\nImagen tomada de: https://www.markdownguide.org/getting-started/",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción a Markdown</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Repaso: Introducción a Markdown</span>"
     ]
   },
   {
-    "objectID": "Parte4.html#sintaxis-de-escritura-y-formato-básicos",
-    "href": "Parte4.html#sintaxis-de-escritura-y-formato-básicos",
-    "title": "2  Introducción a Markdown",
-    "section": "2.4 Sintaxis de escritura y formato básicos",
-    "text": "2.4 Sintaxis de escritura y formato básicos\nRevisar la documentación de GitHub",
+    "objectID": "repaso_Markdown.html#sintaxis-de-escritura-y-formato-básicos",
+    "href": "repaso_Markdown.html#sintaxis-de-escritura-y-formato-básicos",
+    "title": "3  Repaso: Introducción a Markdown",
+    "section": "3.4 Sintaxis de escritura y formato básicos",
+    "text": "3.4 Sintaxis de escritura y formato básicos\nRevisar la documentación de GitHub",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción a Markdown</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Repaso: Introducción a Markdown</span>"
     ]
   },
   {
-    "objectID": "Parte4.html#ejercicio-individual-página-de-inicio-en-github",
-    "href": "Parte4.html#ejercicio-individual-página-de-inicio-en-github",
-    "title": "2  Introducción a Markdown",
-    "section": "2.5 Ejercicio individual: Página de inicio en GitHub",
-    "text": "2.5 Ejercicio individual: Página de inicio en GitHub\n\n\n\n\n\n\nNoteActividad\n\n\n\n\nEn GitHub, crea un repositorio con el mismo nombre de usuario. Ejemplo: Mi usuario es EveliaCoss y mi repositorio se llama EveliaCoss, dandome la siguiente liga https://github.com/EveliaCoss/EveliaCoss\nAgrega un README al repositorio con tu informacion. Por Default ya trae una plantilla, modificala y adaptala a tu gusto.\nVisualiza como cambia tu inicio en el Github.",
+    "objectID": "repaso_Markdown.html#tablas-con-datatable",
+    "href": "repaso_Markdown.html#tablas-con-datatable",
+    "title": "3  Repaso: Introducción a Markdown",
+    "section": "3.5 Tablas con datatable",
+    "text": "3.5 Tablas con datatable\n\n\nCode\nlibrary(dplyr)\n\niris %&gt;%\n  head(3) %&gt;%\n  DT::datatable()\n\n\n\n\nTable 3.1: Tabla decorativa",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción a Markdown</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Repaso: Introducción a Markdown</span>"
     ]
   },
   {
-    "objectID": "Parte4.html#referencias",
-    "href": "Parte4.html#referencias",
-    "title": "2  Introducción a Markdown",
-    "section": "2.6 Referencias",
-    "text": "2.6 Referencias\n\nDocumentación de GitHub\nLibro de Rmarkdown\nEjercicios con Markdown\nCurso de Heladia Salgado\nCurso de Git y GitHub Evelia Coss\nMarkdown and rmarkdown\nGaleria de Markdown\nLesson 3: Basic Syntax\nIntroduction to Open Data Science with R\nData Science for Psychologists",
+    "objectID": "repaso_Markdown.html#librarygt",
+    "href": "repaso_Markdown.html#librarygt",
+    "title": "3  Repaso: Introducción a Markdown",
+    "section": "3.6 library(gt)",
+    "text": "3.6 library(gt)\n\n\nCode\niris %&gt;% \n  head() %&gt;%\n  gt::gt() %&gt;%\n  gt::tab_spanner(label = \"Petalo\", columns = vars(Petal.Length,Petal.Width)) %&gt;%\n  gt::tab_spanner(label = \"Sepalo\", columns = vars(Sepal.Length,Sepal.Width))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSepalo\n\n\nPetalo\n\nSpecies\n\n\nSepal.Length\nSepal.Width\nPetal.Length\nPetal.Width\n\n\n\n\n5.1\n3.5\n1.4\n0.2\nsetosa\n\n\n4.9\n3.0\n1.4\n0.2\nsetosa\n\n\n4.7\n3.2\n1.3\n0.2\nsetosa\n\n\n4.6\n3.1\n1.5\n0.2\nsetosa\n\n\n5.0\n3.6\n1.4\n0.2\nsetosa\n\n\n5.4\n3.9\n1.7\n0.4\nsetosa\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nSi gustas repasar podemos hacerlo con el script Sesion_Rmarkdown_13Oct2023.Rmd del repositorio RmarkdownGraphs_notes.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción a Markdown</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Repaso: Introducción a Markdown</span>"
     ]
   },
   {
-    "objectID": "genes_orf.html",
-    "href": "genes_orf.html",
-    "title": "3  Definición actualizada y didáctica del gen",
+    "objectID": "repaso_Markdown.html#referencias",
+    "href": "repaso_Markdown.html#referencias",
+    "title": "3  Repaso: Introducción a Markdown",
+    "section": "3.7 Referencias",
+    "text": "3.7 Referencias\n\nDocumentación de GitHub\nLibro de Rmarkdown\nEjercicios con Markdown\nCurso de Heladia Salgado\nCurso de Git y GitHub Evelia Coss\nMarkdown and rmarkdown\nGaleria de Markdown\nLesson 3: Basic Syntax\nIntroduction to Open Data Science with R\nData Science for Psychologists",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Repaso: Introducción a Markdown</span>"
+    ]
+  },
+  {
+    "objectID": "D2_actividades3.html",
+    "href": "D2_actividades3.html",
+    "title": "4  📚 Actividad 3: Página web con Rmarkdown",
     "section": "",
-    "text": "3.1 Potencial codificante\ny en casos simples es considerado: un gen es una secuencia de ADN que codifica un producto proteico o de ARN (mRNA o no codificante).\nEl potencial codificante se refiere a la capacidad de una secuencia de ADN o ARN para ser traducida en una proteína funcional. Se evalúa mediante características como la presencia de codones de inicio y parada, la longitud del marco de lectura, la conservación evolutiva y el uso de codones típico de genes.",
+    "text": "4.0.1 ¿Qué es un RProject y por qué usarlo?\nFecha: 19 de febrero, 2026\nImagen tomada de: Allison Horst\nImagen tomada de: Allison Horst",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Definición actualizada y didáctica del gen</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**📚** Actividad 3: Página web con Rmarkdown</span>"
     ]
   },
   {
-    "objectID": "genes_orf.html#marco-de-lectura-abierto-orf",
-    "href": "genes_orf.html#marco-de-lectura-abierto-orf",
-    "title": "3  Definición actualizada y didáctica del gen",
-    "section": "3.2 Marco de lectura abierto (ORF)",
-    "text": "3.2 Marco de lectura abierto (ORF)\nUn marco de lectura abierto (ORF) es una secuencia de nucleótidos que comienza con un codón de inicio (generalmente AUG) y termina con un codón de paro (UAA, UAG o UGA), sin interrupciones que impidan la traducción. Es una señal estructural que sugiere que la región podría codificar una proteína, aunque no garantiza funcionalidad.\n\n\n\nRef. Griffiths. Introduction to genetic analysis. Pp 500 libro electronico cap 14. Genomes and genomics\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nNo todos los ORFs son funcionales: algunos pueden ser artefactos o pseudogenes.\nEn transcriptómica y metagenómica, se usan algoritmos para predecir genes basados en ORFs y potencial codificante.",
+    "objectID": "D2_actividades3.html#referencias",
+    "href": "D2_actividades3.html#referencias",
+    "title": "4  📚 Actividad 3: Página web con Rmarkdown",
+    "section": "6.1 Referencias",
+    "text": "6.1 Referencias\n\nAllison Horst\nhttps://github.com/EveliaCoss/EveliaCoss.github.io\npostcards",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Definición actualizada y didáctica del gen</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**📚** Actividad 3: Página web con Rmarkdown</span>"
     ]
   },
   {
-    "objectID": "genes_orf.html#cómo-distinguimos-transcritos-codificantes-de-no-codificantes",
-    "href": "genes_orf.html#cómo-distinguimos-transcritos-codificantes-de-no-codificantes",
-    "title": "3  Definición actualizada y didáctica del gen",
-    "section": "3.3 ¿Cómo distinguimos transcritos codificantes de no codificantes?",
-    "text": "3.3 ¿Cómo distinguimos transcritos codificantes de no codificantes?\nLa distinción entre transcritos codificantes y no codificantes es esencial para la anotación funcional del transcriptoma. Aunque los lncRNAs no codifican proteínas, es necesario descartar evidencia de codificación antes de clasificarlos como tales.\n\n\n3.3.1 Tipos de archivos comunes en bioinformática\n\n\n\nFormato\nDescripción\nEmpleo\nEjemplo\n\n\n\n\nFASTA (.fasta / .fa)\nContiene secuencias de nucleótidos o aminoácidos. Cada entrada inicia con &gt; seguido de un identificador.\nGenoma de referencia, proteínas, transcriptos/nucleótidos\n&gt;seq1\nATGCGTACGTAGCTAG\n\n\nFASTQ (.fastq)\nSimilar a FASTA pero incluye calidad de lectura por base (lecturas de secuenciación).\nesencial en pipelines de secuenciación (RNA-seq, WGS).\n@SEQ_ID\nGATTTGGGGTTCAAAGCAGTATCGATCAAATAGTAA\n+\n!''*((((***+))%%%++)(%%%%).1***-+*''))**\n\n\nGTF/GFF (.gtf / .gff)\nArchivos de anotación genómica: definen genes, exones, intrones, etc.\nclave para anotación estructural y funcional.\nchr1  HAVANA  exon  11869  12227  .  +  .  gene_id \"ENSG00000223972\";\n\n\nBED (.bed)\nDefine regiones genómicas (intervalos), útil para visualización y análisis de cobertura.\nLocalización de genes, clasificación de genes, visualización (IGV, UCSC Genome Browser)\nchr7  127471196  127472363  region1\n\n\n\n\n\n3.3.2 Herramientas clave en bioinformáticas\n\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nAquí les dejo el link al Método de selección de lncRNAs empleado en Arabidopsis thaliana. Relacionado con el artículo Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana.\n\n\n\n\n\nSoftware\nPropósito\nFunción\nSecuencia de interés (input)\nBase de datos\n\n\n\n\ngffread\nObtener el FASTA de las secuencias seleccionadas\ngffread\nArchivo de anotación (GTF) y genoma de referencia (FASTA)\nNA\n\n\nEMBOSS/v6.6.0\nObtener el tamaño de las secuencias\ninfoseq\nSecuencias/nucleótidos (FASTA)\nNA\n\n\nkentUtils/v302\nExtraer la secuencia FASTA a partir de IDs y Generar archivo BED a partir del GTF\nfaSomeRecords, gtfToGenePred y genePredToBed\nSecuencias/nucleótidos (FASTA) y IDs.\nArchivo de anotación (GTF) y genoma de referencia (FASTA)\nNA\n\n\nTransDecoder\nPredicción del ORF y la “proteína” codificada\nTransDecoder.LongOrfs y TransDecoder.Predict\nSecuencias/nucleótidos (FASTA)\nNA\n\n\nblastn\nComparación con proteínas conocidas\nblastn\nproteína (.pep)\nUniProtKB/Swiss-Prot (proteínas)\n\n\nblastp\nComparación con proteínas conocidas\nblastp\nSecuencias/nucleótidos (FASTA)\nUniProtKB/Swiss-Prot (nucleótidos)\n\n\nblastx\nComparación con proteínas conocidas\nblastx\nnucleótidos (traducidos)\nUniProtKB/Swiss-Prot (proteínas)\n\n\nblastdbcmd\nExtraer información de la base de datos de BLAST\nblastdbcmd\nIDs de las secuencias\nRefSeq non-redundant proteins\n\n\nSignalP\nPredicción de péptidos señal\nsignalp\nproteína\nNA\n\n\nTMHMM\nPredicción de dominios transmembranales\ntmhmm\nproteína\nNA\n\n\nPhobius\nPredicción de dominios transmembranales y péptidos señal\nphobius.pl\nproteína\nNA\n\n\nHMMER\nBúsqueda de dominios conservados\nhmmscan\nproteína\nPfam\n\n\nInfernal\nBusca coincidencias estructurales en secuencias usando modelos de covarianza y escanea bases de datos\ncmsearch\nSecuencias/nucleótidos (FASTA)\nRfam\n\n\n\n\n\n\nDiagrama de flujo de la anotación de lncRNAs en Arabidopsis thaliana\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nSi el transcrito no tiene similitud con proteínas conocidas, no contiene péptido señal, no tiene dominios transmembranales, y no presenta dominios conservados, es probablemente no codificante.\nSi alguno de estos elementos está presente, se debe considerar como potencialmente codificante y excluirlo de la clasificación como no codificante.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Definición actualizada y didáctica del gen</span>"
-    ]
-  },
-  {
-    "objectID": "genes_orf.html#material-suplementario",
-    "href": "genes_orf.html#material-suplementario",
-    "title": "3  Definición actualizada y didáctica del gen",
-    "section": "3.4 Material suplementario",
-    "text": "3.4 Material suplementario\n\nCurso del Dr. Cei Abreu - BLAST en la línea de comando\nPipeline for lncRNA annotation from RNA-seq data (PLAR)\nlncRNA Identification - P.generosa lncRNAs using CPC2 and bedtools\nRNA-seq Bioinformatics",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Definición actualizada y didáctica del gen</span>"
-    ]
-  },
-  {
-    "objectID": "Anotation_ejercicios.html",
-    "href": "Anotation_ejercicios.html",
-    "title": "4  Extracción de información de diversos archivos",
+    "objectID": "D2_Quarto.html",
+    "href": "D2_Quarto.html",
+    "title": "5  Introducción a Quarto",
     "section": "",
-    "text": "4.1 Archivo FASTA\nUn archivo FASTA es un formato estándar para almacenar secuencias biológicas, como ADN, ARN o proteínas. Cada secuencia está compuesta por:\nEjemplo:",
+    "text": "5.1 ¿Cómo funciona?\nFecha: 19 de febrero, 2026\nQuarto es una versión multilingüe y de última generación de R Markdown de Posit que incluye docenas de nuevas características y capacidades y al mismo tiempo puede renderizar la mayoría de los archivos Rmd existentes sin modificaciones.\nUtiliza el botón  Render en el IDE de RStudio para renderizar el archivo y obtener una vista previa de la salida con un solo clic o un atajo de teclado (⇧⌘K).\nSi prefiere renderizar automáticamente al guardar, puede activar la opción “Renderizar al guardar” en la barra de herramientas del editor. La vista previa se actualizará al volver a renderizar el documento. La vista previa en paralelo funciona tanto con HTML como con PDF.\nAl renderizar un documento de Quarto, knitr ejecuta primero todos los fragmentos de código y crea un nuevo documento Markdown (.md), que incluye el código y su salida. El archivo Markdown generado es procesado por pandoc , que crea el formato final. El botón Renderizar encapsula estas acciones y las ejecuta en el orden correcto.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Extracción de información de diversos archivos</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introducción a Quarto</span>"
     ]
   },
   {
-    "objectID": "Anotation_ejercicios.html#archivo-fasta",
-    "href": "Anotation_ejercicios.html#archivo-fasta",
-    "title": "4  Extracción de información de diversos archivos",
+    "objectID": "D2_Quarto.html#cómo-se-compone",
+    "href": "D2_Quarto.html#cómo-se-compone",
+    "title": "5  Introducción a Quarto",
+    "section": "5.2 ¿Cómo se compone?",
+    "text": "5.2 ¿Cómo se compone?\nEl archivo contiene tres tipos de contenido: un encabezado YAML, fragmentos de código y texto Markdown.\n\n5.2.1 encabezado YAML\nUn encabezado YAML (opcional) delimitado por tres guiones ( ---) en cada extremo.\n---\ntitle: \"Hello, Quarto\"\nformat: html\neditor: visual\n---\nAl renderizar, el símbolo title, \"Hello, Quarto\", aparecerá en la parte superior del documento renderizado con un tamaño de fuente mayor que el resto del documento. Los otros dos campos YAML indican que la salida debe estar en formato html formaty que el documento debe abrirse en formato visual editorpredeterminado.\nPuedes consultar todos los campos YAML disponibles para documentos: HTML aquí . Los campos YAML disponibles varían según el formato del documento; por ejemplo, consulte aquí los campos YAML para documentos PDF y aquí para MS Word.\n\n\n\n\n\n\nImportant\n\n\n\nPara crear archivos PDF, se necesitará instalar una distribución reciente de LaTeX. Recomendamos usar TinyTeX (basado en TexLive), que se puede instalar con el siguiente comando:\nquarto install tinytex",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introducción a Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "D2_Quarto.html#renderizar-a-varios-tipos-de-archivos",
+    "href": "D2_Quarto.html#renderizar-a-varios-tipos-de-archivos",
+    "title": "5  Introducción a Quarto",
+    "section": "5.3 Renderizar a varios tipos de archivos",
+    "text": "5.3 Renderizar a varios tipos de archivos\nSi desea renderizar en todos los formatos, puede hacerlo con el paquete quarto , que proporciona una interfaz de R para la CLI de Quarto. Por ejemplo, para renderizar el documento actual, utilice quarto::quarto_render(). También puede especificar el nombre del documento que desea renderizar, así como los formatos de salida.\nquarto::quarto_render(\n  \"authoring.qmd\", \n  output_format = c(\"pdf\", \"html\", \"docx\")\n)\nComo resultado, verá aparecer tres nuevos archivos en el panel Archivos:\n\nauthoring.docx\nauthoring.html\nauthoring.pdf",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introducción a Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "D2_Quarto.html#callout-notas",
+    "href": "D2_Quarto.html#callout-notas",
+    "title": "5  Introducción a Quarto",
+    "section": "5.4 Callout / notas",
+    "text": "5.4 Callout / notas\nDa clic en Insert/callout.\nPuede seleccionar uno de los cinco tipos de callout (nota, sugerencia, importante, precaución o advertencia), personalizar su apariencia (predeterminada, simple o mínima) y decidir si desea mostrar el ícono.\n\nLuego, intente insertar el texto dentro del cuadro de callout.\n\n\n\n\n\n\nNote\n\n\n\nNota\n\n\n\n\n\n\n\n\nTip\n\n\n\nSugerencia\n\n\n\n\n\n\n\n\nImportant\n\n\n\nImportante\n\n\n\n\n\n\n\n\nCaution\n\n\n\nPrecaución\n\n\n\n\n\n\n\n\nWarning\n\n\n\nAdvertencia",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introducción a Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "D2_Quarto.html#cross-reference-referencias-cruzadas",
+    "href": "D2_Quarto.html#cross-reference-referencias-cruzadas",
+    "title": "5  Introducción a Quarto",
+    "section": "5.5 Cross reference / Referencias cruzadas",
+    "text": "5.5 Cross reference / Referencias cruzadas\nLas cross references en Quarto son una forma de enlazar automáticamente figuras, tablas, secciones, ecuaciones y otros elementos dentro de tu documento, de manera que se numeran y se convierten en hipervínculos navegables. Esto evita tener que actualizar manualmente la numeración si agregas o quitas elementos.\n\nEtiqueta (label) Cada elemento que quieras referenciar necesita una etiqueta única.\n\nPara figuras: {#fig-nombre}\nPara tablas: {#tbl-nombre}\nPara secciones: {#sec-nombre}\nPara ecuaciones: {#eq-nombre}\n\nReferencia en el texto Para referenciar, se usa @ seguido del identificador:\n\n@fig-nombre → referencia a una figura.\n@tbl-nombre → referencia a una tabla.\n@sec-nombre → referencia a una sección.\n@eq-nombre → referencia a una ecuación.\n\n\nQuarto asigna números consecutivos a las entidades (Figura 1, Tabla 2, etc.) y actualiza todo si cambias el orden o agregas nuevos elementos.\nEjemplo:\n\n\n\n\n\n\n\n\nEntidad\nReferencia\nEtiqueta / Título\n\n\n\n\nSección\n@sec-eda\nID añadido al encabezado:\n# Análisis exploratorio de datos {#sec-eda}\n\n\nFigura\n@fig-pressure\nOpciones YAML en la celda de código:\n#| label: fig-scatterplot\n#| fig-cap: \"Pressure\"\n\n\nTabla\n@tbl-stats\nOpciones YAML en la celda de código:\n#| label: tbl-stats\n#| tbl-cap: \"Summary statistics for price and area of houses in Duke Forest\"\n\n\nEcuación\n@eq-slr\nAl final de la ecuación de visualización:\n$$ {#eq-slr}",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introducción a Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "D2_Quarto.html#sec-stats",
+    "href": "D2_Quarto.html#sec-stats",
+    "title": "5  Introducción a Quarto",
+    "section": "6.1 Estadísticas descriptivas",
+    "text": "6.1 Estadísticas descriptivas\n\n\nCode\nknitr::kable(head(ggplot2::diamonds))\n\n\n\n\nTable 6.1: Summary statistics for price and area of houses in Duke Forest\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncarat\ncut\ncolor\nclarity\ndepth\ntable\nprice\nx\ny\nz\n\n\n\n\n0.23\nIdeal\nE\nSI2\n61.5\n55\n326\n3.95\n3.98\n2.43\n\n\n0.21\nPremium\nE\nSI1\n59.8\n61\n326\n3.89\n3.84\n2.31\n\n\n0.23\nGood\nE\nVS1\n56.9\n65\n327\n4.05\n4.07\n2.31\n\n\n0.29\nPremium\nI\nVS2\n62.4\n58\n334\n4.20\n4.23\n2.63\n\n\n0.31\nGood\nJ\nSI2\n63.3\n58\n335\n4.34\n4.35\n2.75\n\n\n0.24\nVery Good\nJ\nVVS2\n62.8\n57\n336\n3.94\n3.96\n2.48\n\n\n\n\n\n\n\n\n\n6.1.1 Modelo de regresión\nEl modelo lineal simple se expresa como:\n\\[\nY = \\beta_0 + \\beta_1 X + \\epsilon\n\\tag{6.1}\\]\nEjemplo en el texto:\nPresentamos los resultados del análisis exploratorio de datos en Chapter 6 y la estadística descriptiva en Section 6.1 .\nLa Figure 6.1 muestra la relación entre estas dos variables en un diagrama de dispersión.\nLa Table 6.1 presenta estadísticas descriptivas básicas de estas dos variables.\nPodemos ajustar un modelo de regresión lineal simple de la forma mostrada en Equation 6.1.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introducción a Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "D2_Quarto.html#aprendiendo-más",
+    "href": "D2_Quarto.html#aprendiendo-más",
+    "title": "5  Introducción a Quarto",
+    "section": "6.2 Aprendiendo más",
+    "text": "6.2 Aprendiendo más\n¡Ya has aprendido los conceptos básicos de Quarto! Una vez que te sientas cómodo creando y personalizando documentos, aquí tienes algunas cosas más que puedes explorar:\n\nPresentaciones : cree presentaciones de PowerPoint, Beamer y Revealjs utilizando la misma sintaxis que aprendió para crear documentos.\nSitios web : publique colecciones de documentos como un sitio web. Los sitios web admiten múltiples formas de navegación y búsqueda de texto completo.\nBlogs : crea un blog con una página acerca de, listas de publicaciones flexibles, categorías, feeds RSS y más de veinte temas.\nLibros : cree libros y manuscritos en formatos impresos (PDF, MS Word) y en línea (HTML, ePub).\nInteractividad : incluya componentes interactivos para ayudar a los lectores a explorar los conceptos y los datos que está presentando más profundamente.\n\n\nImagen tomada de: Allison Horst",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introducción a Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "D2_Quarto.html#referencias",
+    "href": "D2_Quarto.html#referencias",
+    "title": "5  Introducción a Quarto",
+    "section": "6.3 Referencias",
+    "text": "6.3 Referencias\n\nTutorial: Hello, Quarto",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introducción a Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "D2_actividades4y5.html",
+    "href": "D2_actividades4y5.html",
+    "title": "6  📚 Actividad 4 y 5",
     "section": "",
-    "text": "Una línea de encabezado que comienza con el símbolo &gt;\nUna o más líneas con la secuencia en formato de texto plano\n\n\n&gt;ENSMUSG00000049605 Olfr418-ps1\nATGGCCTGTTTCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTG\n\n4.1.1 Encabezado FASTA explicado (UniProtKB)\nEste ejemplo describe una proteína curada manualmente en UniProt (Swiss-Prot), identificada como (+)-T-muurolol synthase, una enzima que convierte farnesyl diphosphate en terpenos. Proviene de la cepa ATCC 27064 de Streptomyces clavuligerus. El gen responsable es SCLAV_p0068, y hay evidencia experimental directa de su existencia (PE=1).\n&gt;sp|B5GW45|TMUUS_STRC2 (+)-T-muurolol synthase ((2E,6E)-farnesyl diphosphate cyclizing) OS=Streptomyces clavuligerus (...) OX=443255 GN=SCLAV_p0068 PE=1 SV=1\n\n\n\n\n\n\n\n\nCampo\nSignificado\nTraducción didáctica\n\n\n\n\nsp\nSwiss-Prot: base de datos revisada manualmente\nEntrada curada por expertos\n\n\nB5GW45\nAccession number: identificador único de la proteína\nClave única en UniProt\n\n\nTMUUS_STRC2\nNombre corto: nombre de la proteína + especie\nAbreviación de la enzima en Streptomyces clavuligerus\n\n\n(+)-T-muurolol synthase\nNombre funcional: enzima que cicla farnesyl diphosphate\nEnzima que produce terpenos\n\n\n(2E,6E)-farnesyl diphosphate cyclizing\nActividad específica\nTipo de reacción química que realiza\n\n\nOS=Streptomyces clavuligerus (...)\nOrganism Species: especie y cepas\nOrganismo fuente y cepas de referencia\n\n\nOX=443255\nOrganism Taxonomy ID\nID taxonómico en NCBI\n\n\nGN=SCLAV_p0068\nGene Name\nNombre del gen que codifica esta proteína\n\n\nPE=1\nProtein Existence: nivel de evidencia\n\nNivel 1 = evidencia experimental a nivel proteína\nNivel 2 = evidencia experimental a nivel ARN (ej. RT-PCR, RNA-seq)\nNivel 3 = Inferida por homología con proteínas similares en otros organismos\nNivel 4 = Predicción computacional sin evidencia experimental directa\nNivel 5 = Existencia incierta; datos insuficientes o contradictorios\n\n\n\nSV=1\nSequence Version\nVersión de la secuencia en UniProt\n\n\n\n\n\n\n\n\n\nNoteEjercicio 7. Extracción de información de archivos fasta\n\n\n\n\nColocate dentro de la carpeta _files de unix.bioinfo.rsgecuador-gh-pages. En mi caso sería empleando:\ncd /Users/ecoss/Documents/LCG2025_IntroBioinfo_S1/practica/unix.bioinfo.rsgecuador-gh-pages/_files\nContesta las siguientes preguntas empleando el archivo S_clavuligerus_proteome.fasta\nCambia los permisos para que las OTRAS personas cuenten con todos los permisos (escritura, lectura y ejecución) sobre el archivo FASTA.\n¿Cuántas líneas tiene el archivo FASTA?\n¿Cuántos registros (“&gt;”) tiene el archivo FASTA?\n¿Cuántas veces aparece el motivo DDXXD en el archivo FASTA?\n¿Cuántos de esos registros son “Uncharacterized protein”?\n¿Cuántos de esos registros cuentan con evidencia experimental (PE=1)?\n¿De cuántos provienen las secuencias presentes en el archivo FASTA?\n\n\n\n\n\n\n\nTipSolución\n\n\n\n\n\n1. cd TU_DIRECCION\n2. chmod 757 S_clavuligerus_proteome.fasta\n3. wc -l S_clavuligerus_proteome.fasta # 40739\n4. grep -c \"&gt;\" S_clavuligerus_proteome.fasta # 6439 o grep '^&gt;' S_clavuligerus_proteome.fasta | wc -l # 6439\n5. grep -v '^&gt;' S_clavuligerus_proteome.fasta | tr -d '\\n' | grep -oE 'DD[A-Z]{2}D' | wc -l #314 \n6. grep '^&gt;' S_clavuligerus_proteome.fasta | grep -oE 'Uncharacterized protein' | wc -l #2689 \n7. grep '^&gt;' S_clavuligerus_proteome.fasta | grep 'PE=1' | wc -l # 6 registros\n8. grep '^&gt;' S_clavuligerus_proteome.fasta | grep -o 'OS=[^=]*' | sort | uniq | wc -l # solo una especie",
+    "text": "6.1 📚 Actividad 4: Crear un documento de Quarto con formato de salida html\nFecha: 19 de febrero, 2026\nPara crear un documento nuevo, ve a Archivos/File &gt; Nuevo archivo &gt; Documento de Quarto.\nPara este tipo de archivos vamos a usar la información del YAML para HTML.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Extracción de información de diversos archivos</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>**📚** Actividad 4 y 5</span>"
     ]
   },
   {
-    "objectID": "Anotation_ejercicios.html#archivo-gtf",
-    "href": "Anotation_ejercicios.html#archivo-gtf",
-    "title": "4  Extracción de información de diversos archivos",
-    "section": "4.2 Archivo GTF",
-    "text": "4.2 Archivo GTF\nUn archivo GTF(Gene Transfer Format) es un formato tabular utilizado para anotar elementos genómicos, como genes, exones, transcritos y regiones codificantes. Es ampliamente usado en bioinformática para describir la estructura de genes en un genoma de referencia.\nCada línea representa una característica genómica y contiene 9 columnas separadas por tabulaciones.\nEjemplo:\n1  pseudogene                          gene         3054233    3054733    .  +  .  gene_id  \"ENSMUSG00000090025\";  gene_name      \"Gm16088\";             gene_source  \"havana\";          gene_biotype  \"pseudogene\";\n\n4.2.1 Columnas del GTF\n\n\n\n\n\n\n\n\n\nNº\nNombre (ES)\nName (EN)\nDescripción\n\n\n\n\n1\nCromosoma\nseqname\nNombre del cromosoma o contig (ej. chr1)\n\n\n2\nFuente\nsource\nPrograma o base de datos que generó la anotación (ej. ENSEMBL)\n\n\n3\nCaracterística\nfeature\nTipo de elemento anotado (gene, exon, CDS, etc.)\n\n\n4\nInicio\nstart\nPosición inicial del elemento (1-based)\n\n\n5\nFin\nend\nPosición final del elemento\n\n\n6\nPuntuación\nscore\nValor de calidad o puntuación (. si no aplica)\n\n\n7\nHebra\nstrand\nHebra del ADN: + para sentido, - para antisentido\n\n\n8\nMarco de lectura\nframe\nMarco de lectura para CDS: 0, 1, 2 o . si no aplica\n\n\n9\nAtributos\nattribute\nCampo con pares clave-valor (gene_id, gene_name, gene_biotype, etc.)\n\n\n\n\n\n\n\n\n\nNoteEjercicio 8. Extracción de información de archivos BED\n\n\n\n\nCrear una carpeta llamada GTF dentro de _files.\nDescargar el archivo GTF del cromosoma 1 de ratón (Mus_musculus.GRCm38.75_chr1)\n\ncurl -O https://raw.githubusercontent.com/Data-Skills/bds-files/master/chapter-07-unix-data-tools/Mus_musculus.GRCm38.75_chr1.gtf\nContesta las siguientes preguntas empleando el archivo Mus_musculus.GRCm38.75_chr1.gtf\n\nMuestra las primeras tres líneas del archivo GTF que no sean comentarios (#), y extrae únicamente las primeras ocho columnas de cada línea.\nFiltra las líneas tipo gene y cuenta cuántas tienen gene_biotype \"protein_coding\".\nFiltra las líneas tipo gene y cuenta cuántas tienen gene_biotype \"lincRNA\".\nExtrae los primeros cinco identificadores de genes (gene_id) del archivo GTF usando una expresión regular.\n¿Cuántos genes tenemos de cada gene_biotype que aparece en el archivo GTF?\nCuenta cuántas veces aparece cada tipo de característica genómica (columna 3) en el archivo GTF, excluyendo los comentarios.\nIdentifica cuántas veces aparece cada tipo de característica genómica (columna 3) asociada al gen ENSMUSG00000033793 en el archivo GTF.\nExtrae los primeros diez identificadores únicos de genes (gene_id) del archivo GTF, eliminando duplicados y ordenándolos alfabéticamente.\nGenera un nuevo archivo llamado gene_id_name.tsv que contenga dos columnas: 1) gene_id y 2) gene_name.\n\n\n\n\n\n\n\nTipSolución\n\n\n\n\n\n1. grep -v \"^#\" Mus_musculus.GRCm38.75_chr1.gtf | cut -f1-8 | head -n 3 # o grep -v \"^#\" Mus_musculus.GRCm38.75_chr1.gtf | cut -f1-8 | column -t | head -n 3\n# column -t:  genera el formato de tabla\n\n2. grep -v \"^#\" Mus_musculus.GRCm38.75_chr1.gtf | \\\ngrep -w \"gene\" | \\\ngrep 'gene_biotype \"protein_coding\"' | \\\nwc -l # 1240\n\n3. grep -v \"^#\" Mus_musculus.GRCm38.75_chr1.gtf | \\\ngrep -w \"gene\" | \\\ngrep 'gene_biotype \"lincRNA\"' | \\\nwc -l # 89\n\n4. grep -E -o 'gene_id \"\\w+\"' Mus_musculus.GRCm38.75_chr1.gtf | head -n 5\n# 'gene_id \"\\w+\"': busca el texto gene_id \" seguido de una cadena alfanumérica (el ID del gen) entre comillas.\n\n5. grep -v \"^#\" Mus_musculus.GRCm38.75_chr1.gtf | \\\ngrep -w \"gene\" | \\\nsed -n 's/.*gene_biotype \"\\([^\"]*\\)\".*/\\1/p' | \\\nsort | uniq -c\n\n# -n: suprime la salida automática de sed, solo imprime si se usa p.\n# 's/.../.../p': aplica una sustitución y muestra el resultado si hay coincidencia.\n#  .*gene_biotype \": busca cualquier texto antes de gene_biotype \" (incluido).\n#  \\([^\"]*\\): captura el contenido entre comillas (el valor del biotipo).\n# .*: ignora el resto de la línea.\n# \\1: imprime solo lo capturado (el biotipo).\n# p: imprime la línea modificada.\n\n6. grep -v \"^#\" Mus_musculus.GRCm38.75_chr1.gtf | cut -f3 | sort | uniq -c\n\n7. grep \"ENSMUSG00000033793\" Mus_musculus.GRCm38.75_chr1.gtf | cut -f3 | sort | uniq -c\n\n8. grep -E -o 'gene_id \"\\w+\"' Mus_musculus.GRCm38.75_chr1.gtf | cut -f2 -d\" \" | sed 's/\"//g' | sort | uniq | head -n 10\n \n9. grep -v \"^#\" Mus_musculus.GRCm38.75_chr1.gtf | \\\ngrep -w \"gene\" | \\\nsed -n 's/.*gene_id \"\\([^\"]*\\)\";.*gene_name \"\\([^\"]*\\)\".*/\\1\\t\\2/p' &gt; gene_id_name.tsv\n# cut -f2 -d\" \" : Separa por espacio y toma el segundo campo (el ID)\n# sed 's/\"//g': Elimina las comillas dobles\n# sort: Ordena alfabéticamente\n\n# -n: suprime la salida automática de sed, solo imprime si se usa p.\n# 's/.../.../p': aplica una sustitución y muestra el resultado si hay coincidencia.\n#  .*gene_id \": busca cualquier texto antes de gene_id \" (incluido).\n# \\([^\"]*\\): captura el contenido entre comillas (el valor del gene_id).\n#  .*gene_name \": busca cualquier texto entre gene_id y gene_name.\n# \\([^\"]*\\): captura el valor del gene_name.\n#  .*: ignora el resto de la línea.\n# \\1\\t\\2: imprime los dos valores capturados, separados por tabulación.\n# p: imprime la línea modificada.\n\ngrep -v \"^#\" Mus_musculus.GRCm38.75_chr1.gtf | head -n 3 | sed -E -n 's/.*transcript_id \"([^\"]+)\".*/\\1/p'",
+    "objectID": "D2_actividades4y5.html#actividad-5-explorar-la-galleria-de-quarto-y-elegir-un-diseño",
+    "href": "D2_actividades4y5.html#actividad-5-explorar-la-galleria-de-quarto-y-elegir-un-diseño",
+    "title": "6  📚 Actividad 4 y 5",
+    "section": "6.2 📚 Actividad 5: Explorar la galleria de Quarto y elegir un diseño",
+    "text": "6.2 📚 Actividad 5: Explorar la galleria de Quarto y elegir un diseño\n\nVisita la galeria de Quarto.\nVe al apartado de Articles & Reports.\n\n\n\nSelecciona un diseño y da clic en el botón “&lt;/&gt;”.\n\n\n\nDescarga el archivo desde GitHub y abrelo en Rstudio.\n\n\n\n\n\n\n\n\nNote\n\n\n\nAquí les dejo mi ejemplo editado, ya que el ejemplo que descargaremos tendrá algunos errores en su sintaxis.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Extracción de información de diversos archivos</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>**📚** Actividad 4 y 5</span>"
     ]
   },
   {
-    "objectID": "Anotation_ejercicios.html#archivo-bed",
-    "href": "Anotation_ejercicios.html#archivo-bed",
-    "title": "4  Extracción de información de diversos archivos",
-    "section": "4.3 Archivo BED",
-    "text": "4.3 Archivo BED\nUn archivo BED(Browser Extensible Data) es un formato tabular utilizado para representar intervalos genómicos. Es ampliamente usado en bioinformática para definir regiones como genes, exones, picos de ChIP-seq, regiones repetitivas, entre otros.\nCada línea representa una región en el genoma y contiene al menos tres columnas obligatorias, aunque puede incluir hasta doce.\nEjemplo:\nchr22 1000 5000 cloneA 960 + 1000 5000 0 2 567,488, 0,3512\nchr22 2000 6000 cloneB 900 - 2000 6000 0 2 433,399, 0,3601\n\n4.3.1 Columnas del BED\n\n\n\n\n\n\n\n\n\nNº\nNombre (ES)\nName (EN)\nDescripción\n\n\n\n\n1\nCromosoma\nchrom\nNombre del cromosoma (ej. chr1, chrX)\n\n\n2\nInicio\nstart\nPosición inicial (0-based, inclusiva)\n\n\n3\nFin\nend\nPosición final (exclusiva)\n\n\n4\nNombre\nname\n(Opcional) Identificador de la región\n\n\n5\nPuntuación\nscore\n(Opcional) Valor entre 0 y 1000\n\n\n6\nHebra\nstrand\n(Opcional) Hebra del ADN: + o -\n\n\n7–12\nCampos avanzados\nthickStart, thickEnd, itemRgb, etc.\n(Opcionales) Usados en visualización en genome browsers\n\n\n\n\n\n\n\n\n\nNoteEjercicio 9. Extracción de información de archivos fasta\n\n\n\nConvertir el archivo GTF a BED\ngrep -v \"^#\" Mus_musculus.GRCm38.75_chr1.gtf | \\\ngrep -w \"gene\" | \\\nsed -n 's/.*gene_name \"\\([^\"]*\\)\".*/\\1/p' | \\\npaste -d'\\t' &lt;(grep -v \"^#\" Mus_musculus.GRCm38.75_chr1.gtf | grep -w \"gene\" | cut -f1,4,5,7) - &gt; Mus_musculus.GRCm38.75_chr1.bed\n\ngrep -v “^#” : Elimina las líneas de comentario (que empiezan con #)\ngrep -w “gene” : Filtra solo las líneas que anotan genes (no exones, CDS, etc.)\nsed -n ‘s/.gene_name “([^”])“.*/\\1/p’ : Extrae el valor del campo gene_name usando una expresión regular.\npaste -d’ &lt;(…) - : Une dos flujos de datos por columnas, separados por tabulación.\n&lt;(grep … | cut -f1,4,5,7) : Extrae las columnas:\n\n1: cromosoma\n4: posición inicial\n5: posición final\n7: hebra (+ o -)\n\n\nOtra manera de hacer esta transformación de GTF a BED es con convert_GTF_to_BED12.sh\nContesta las siguientes preguntas empleando el archivo Mus_musculus.GRCm38.75_chr1.bed.\n\n¿Cuál es el tamaño de este archivo?\n¿Cuántas líneas contiene este archivo?\nAgrega el prefijo Chr solo a la primera columna de un archivo BED.\nAgrega una columna con el tamaño del transcrito usando solo herramientas básicas (cut, paste, expr, while).\n\n\n\n\n\n\n\nTipSolución\n\n\n\n\n\n1. ls -lh Mus_musculus.GRCm38.75_chr1.bed\n\n2. wc -l Mus_musculus.GRCm38.75_chr1.bed # 2027\n\n3. cut -f1 Mus_musculus.GRCm38.75_chr1.bed | sed 's/^/Chr/' &gt; col1.tmp\ncut -f2- Mus_musculus.GRCm38.75_chr1.bed &gt; col2plus.tmp\npaste col1.tmp col2plus.tmp &gt; genes_prefijoChr.bed\nrm col1.tmp col2plus.tmp\n\n4a.  while IFS=$'\\t' read -r chr start end strand name; do\n    size=$(expr $end - $start)\n    echo -e \"${chr}\\t${start}\\t${end}\\t${strand}\\t${name}\\t${size}\"\ndone &lt; Mus_musculus.GRCm38.75_chr1.bed &gt; Mus_musculus.lengthGenes.bed\n\n# expr $end - $start: Calcula el tamaño del transcrito\n# echo -e : Imprime la línea original más la nueva columna\n\n4b. awk '{size = $3 - $2; print $0 \"\\t\" size}' Mus_musculus.GRCm38.75_chr1.bed &gt; Mus_musculus.lengthGenes_v2.bed\n\n# awk : Ejecuta instrucciones sobre cada línea del archivo  \n# $3 - $2:  Calcula el tamaño: end - start\n# size = ... : Guarda el resultado en la variable size\n# print $0 \"\\t\" size:   Imprime la línea original ($0) más una tabulación y el tamaño",
+    "objectID": "D2_actividades4y5.html#referencias",
+    "href": "D2_actividades4y5.html#referencias",
+    "title": "6  📚 Actividad 4 y 5",
+    "section": "6.3 Referencias",
+    "text": "6.3 Referencias\n\nTutorial: Hello, Quarto",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Extracción de información de diversos archivos</span>"
-    ]
-  },
-  {
-    "objectID": "Anotation_ejercicios.html#más-ejercicios",
-    "href": "Anotation_ejercicios.html#más-ejercicios",
-    "title": "4  Extracción de información de diversos archivos",
-    "section": "5.1 Más ejercicios",
-    "text": "5.1 Más ejercicios\nPara el ejercicio 6.3 debes saber sobre AWK, puedes aprender más sobre el siguiento esta guia Curso avanzado de programación AWK y Bash para bioinformática y biocómputo en sistemas GNU/Linux.\nAqui les dejo la informacion que se puede consultar, solo sepan que existe.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Extracción de información de diversos archivos</span>"
-    ]
-  },
-  {
-    "objectID": "Anotation_ejercicios.html#material-suplementario",
-    "href": "Anotation_ejercicios.html#material-suplementario",
-    "title": "4  Extracción de información de diversos archivos",
-    "section": "5.2 Material suplementario",
-    "text": "5.2 Material suplementario\n\nComandos de Unix para minería de datos\nBash scripting\nUnix Data Tools",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Extracción de información de diversos archivos</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>**📚** Actividad 4 y 5</span>"
     ]
   }
 ]

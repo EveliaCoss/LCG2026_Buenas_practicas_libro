@@ -1,0 +1,10 @@
+---
+title: "Reporte"
+author: "Evelia Coss"
+subtitle: "Ejemplo de la clase"
+date: 02/19/2026
+highlight-style: pygments
+format:
+  html: 
+    code-fold: true # ocultar el código
+---
