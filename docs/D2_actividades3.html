@@ -391,8 +391,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
    
   <ul>
   <li><a href="#qué-es-un-rproject-y-por-qué-usarlo" id="toc-qué-es-un-rproject-y-por-qué-usarlo" class="nav-link active" data-scroll-target="#qué-es-un-rproject-y-por-qué-usarlo"><span class="header-section-number">4.0.1</span> ¿Qué es un RProject y por qué usarlo?</a></li>
-  <li><a href="#actividades-3a-y-3b" id="toc-actividades-3a-y-3b" class="nav-link" data-scroll-target="#actividades-3a-y-3b"><span class="header-section-number">5</span> Actividades 3A y 3B</a></li>
-  <li><a href="#actividad-3c-ediciones-paso-a-paso-en-el-yaml" id="toc-actividad-3c-ediciones-paso-a-paso-en-el-yaml" class="nav-link" data-scroll-target="#actividad-3c-ediciones-paso-a-paso-en-el-yaml"><span class="header-section-number">6</span> <strong>📚</strong> Actividad 3C: Ediciones paso a paso en el YAML</a>
+  <li><a href="#actividades-3a-3b-y-3c" id="toc-actividades-3a-3b-y-3c" class="nav-link" data-scroll-target="#actividades-3a-3b-y-3c"><span class="header-section-number">5</span> <strong>📚</strong> Actividades 3A, 3B y 3C</a>
+  <ul>
+  <li><a href="#otra-manera-de-realizar-commits-en-r" id="toc-otra-manera-de-realizar-commits-en-r" class="nav-link" data-scroll-target="#otra-manera-de-realizar-commits-en-r"><span class="header-section-number">5.1</span> Otra manera de realizar commits en R</a>
+  <ul class="collapse">
+  <li><a href="#flujo-típico-de-trabajo" id="toc-flujo-típico-de-trabajo" class="nav-link" data-scroll-target="#flujo-típico-de-trabajo"><span class="header-section-number">5.1.1</span> Flujo típico de trabajo</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#actividad-3d-ediciones-paso-a-paso-en-el-yaml" id="toc-actividad-3d-ediciones-paso-a-paso-en-el-yaml" class="nav-link" data-scroll-target="#actividad-3d-ediciones-paso-a-paso-en-el-yaml"><span class="header-section-number">6</span> 📙 Actividad 3D: Ediciones paso a paso en el YAML</a>
   <ul>
   <li><a href="#referencias" id="toc-referencias" class="nav-link" data-scroll-target="#referencias"><span class="header-section-number">6.1</span> Referencias</a></li>
   </ul></li>
@@ -440,8 +446,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p><img src="images/clipboard-3718600223.png" class="img-fluid" width="737"></p>
 <p>Imagen tomada de: <a href="https://allisonhorst.com/git-github">Allison Horst</a></p>
 </section>
-<section id="actividades-3a-y-3b" class="level1" data-number="5">
-<h1 data-number="5"><span class="header-section-number">5</span> Actividades 3A y 3B</h1>
+<section id="actividades-3a-3b-y-3c" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> <strong>📚</strong> Actividades 3A, 3B y 3C</h1>
 <p><a href="https://allisonhorst.com/horst-hill-collaborations"><img src="images/clipboard-302116819.png" class="img-fluid"></a></p>
 <p>Imagen tomada de: <a href="https://allisonhorst.com/horst-hill-collaborations">Allison Horst</a></p>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -450,7 +456,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span><strong>📚</strong> Actividad 3A: Crear un Rproject para el repositorio de GitHub
+<span class="screen-reader-only">Note</span>📕 Actividad 3A: Crear un Rproject para el repositorio de GitHub
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -472,26 +478,102 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span><strong>📚</strong> Actividad 3B: Obtener plantilla para la página web
+<span class="screen-reader-only">Note</span>📗 Actividad 3B: Obtener plantilla para la página web
 </div>
 </div>
 <div class="callout-body-container callout-body">
 <ol type="1">
-<li>Descarga el archivo <a href="https://github.com/EveliaCoss/EveliaCoss.github.io/blob/main/index.Rmd">index.Rmd</a> dentro de la misma carpeta que dice <strong>usuario.github.io</strong>.</li>
-<li>Abrir el archivo <a href="https://github.com/EveliaCoss/EveliaCoss.github.io/blob/main/index.Rmd">index.Rmd</a> dentro de tu Rproject.</li>
-<li>Modificalo con tu información.</li>
+<li>Descarga el archivo <a href="https://github.com/EveliaCoss/EveliaCoss.github.io/blob/main/index.Rmd">index.Rmd</a> de mi GitHub, y colocalo dentro de la misma carpeta que dice <strong>usuario.github.io</strong>.</li>
+<li>Abre el <code>.Rproj.</code></li>
+<li>Abre el archivo <a href="https://github.com/EveliaCoss/EveliaCoss.github.io/blob/main/index.Rmd">index.Rmd</a> dentro de tu Rproject.</li>
 </ol>
 </div>
 </div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>📘 Actividad 3C: Vincular tu RProject con el repositorio de GitHub
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li>Inicializa Git en tu Rproject desde la <strong>terminal</strong>.</li>
+</ol>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> init</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<ol start="2" type="1">
+<li>Conectar con GitHub. Reemplaza <code>usuario/nombre-repo</code> con tu repositorio real.</li>
+</ol>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> remote add origin https://github.com/usuario/nombre-repo.git</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>El link puedes obtenerlo dando clic en el código verde que dice <strong>CODE &gt; HTTPS &gt; copiar</strong>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/clipboard-527850784.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="445"></p>
+</figure>
+</div>
+<ol start="3" type="1">
+<li>Realiza el primer commit, agregando toda la información de la Rproject</li>
+</ol>
+<pre><code>git add .
+git commit -m "Primer commit"
+git push -u origin main</code></pre>
+<ol start="4" type="1">
+<li>Verifica los cambios en el GitHub. Después de hacer <em>push</em>, tu proyecto debería aparecer en GitHub con todos los archivos.</li>
+</ol>
+</div>
+</div>
+<section id="otra-manera-de-realizar-commits-en-r" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="otra-manera-de-realizar-commits-en-r"><span class="header-section-number">5.1</span> Otra manera de realizar commits en R</h2>
+<p>Cuando vinculas tu proyecto de R (<code>.Rproj</code>) con GitHub y habilitas Git, aparece una nueva pestaña llamada <strong>Git</strong> en la parte superior derecha de RStudio. Desde ahí puedes manejar tus cambios sin necesidad de usar la terminal.</p>
+<p><img src="images/clipboard-4087314388.png" class="img-fluid"></p>
+<section id="flujo-típico-de-trabajo" class="level3" data-number="5.1.1">
+<h3 data-number="5.1.1" class="anchored" data-anchor-id="flujo-típico-de-trabajo"><span class="header-section-number">5.1.1</span> Flujo típico de trabajo</h3>
+<ol type="1">
+<li><p><strong>Detectar cambios</strong></p>
+<ul>
+<li>Cada vez que modificas un archivo, RStudio lo marca en la pestaña <em>Git</em>.</li>
+<li>Verás íconos que indican si el archivo fue <strong>modificado (M), agregado (A) o eliminado (D)</strong>.</li>
+</ul></li>
+</ol>
+<p><img src="images/clipboard-1204937639.png" class="img-fluid"></p>
+<ol start="2" type="1">
+<li><p><strong>Seleccionar archivos para el commit</strong></p>
+<ul>
+<li>Marca las casillas de los archivos que quieres incluir en el commit.</li>
+<li>Esto equivale a <code>git add</code> en la terminal.</li>
+</ul></li>
+<li><p><strong>Escribir el mensaje de commit</strong></p>
+<ul>
+<li>En el cuadro de texto escribe un mensaje claro y descriptivo, por ejemplo: <em>“Corrijo error en función de normalización”</em></li>
+<li>El mensaje debe explicar <strong>qué cambiaste y por qué</strong>.</li>
+</ul></li>
+<li><p><strong>Hacer el commit</strong></p>
+<ul>
+<li>Haz clic en el botón <em>Commit</em>.</li>
+<li>Esto guarda los cambios en tu historial local de Git.</li>
+</ul></li>
+</ol>
+<p><img src="images/clipboard-469430026.png" class="img-fluid"></p>
+<ol start="5" type="1">
+<li><p><strong>Sincronizar con GitHub</strong></p>
+<ul>
+<li><p>Usa los botones <em>Push</em> (subir cambios al repositorio remoto) y <em>Pull</em> (traer cambios del remoto).</p></li>
+<li><p>Normalmente, después de un commit local, harás <em>Push</em> para que tus cambios aparezcan en GitHub.</p></li>
+</ul></li>
+</ol>
 </section>
-<section id="actividad-3c-ediciones-paso-a-paso-en-el-yaml" class="level1" data-number="6">
-<h1 data-number="6"><span class="header-section-number">6</span> <strong>📚</strong> Actividad 3C: Ediciones paso a paso en el YAML</h1>
+</section>
+</section>
+<section id="actividad-3d-ediciones-paso-a-paso-en-el-yaml" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> 📙 Actividad 3D: Ediciones paso a paso en el YAML</h1>
 <p>Instalar los paquetes:</p>
 <div class="cell">
 <details open="" class="code-fold">
 <summary>Code</summary>
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"postcards"</span>)</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"fontawesome"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"postcards"</span>)</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"fontawesome"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 </div>
 <p>Vamos a modificar paso a paso el YAML encontrado este archivo <a href="https://github.com/EveliaCoss/EveliaCoss.github.io/blob/main/index.Rmd">index.Rmd</a>.</p>

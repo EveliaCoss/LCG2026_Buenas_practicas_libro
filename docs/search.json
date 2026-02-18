@@ -220,6 +220,16 @@
     ]
   },
   {
+    "objectID": "D2_actividades3.html#otra-manera-de-realizar-commits-en-r",
+    "href": "D2_actividades3.html#otra-manera-de-realizar-commits-en-r",
+    "title": "4  📚 Actividad 3: Página web con Rmarkdown",
+    "section": "5.1 Otra manera de realizar commits en R",
+    "text": "5.1 Otra manera de realizar commits en R\nCuando vinculas tu proyecto de R (.Rproj) con GitHub y habilitas Git, aparece una nueva pestaña llamada Git en la parte superior derecha de RStudio. Desde ahí puedes manejar tus cambios sin necesidad de usar la terminal.\n\n\n5.1.1 Flujo típico de trabajo\n\nDetectar cambios\n\nCada vez que modificas un archivo, RStudio lo marca en la pestaña Git.\nVerás íconos que indican si el archivo fue modificado (M), agregado (A) o eliminado (D).\n\n\n\n\nSeleccionar archivos para el commit\n\nMarca las casillas de los archivos que quieres incluir en el commit.\nEsto equivale a git add en la terminal.\n\nEscribir el mensaje de commit\n\nEn el cuadro de texto escribe un mensaje claro y descriptivo, por ejemplo: “Corrijo error en función de normalización”\nEl mensaje debe explicar qué cambiaste y por qué.\n\nHacer el commit\n\nHaz clic en el botón Commit.\nEsto guarda los cambios en tu historial local de Git.\n\n\n\n\nSincronizar con GitHub\n\nUsa los botones Push (subir cambios al repositorio remoto) y Pull (traer cambios del remoto).\nNormalmente, después de un commit local, harás Push para que tus cambios aparezcan en GitHub.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**📚** Actividad 3: Página web con Rmarkdown</span>"
+    ]
+  },
+  {
     "objectID": "D2_actividades3.html#referencias",
     "href": "D2_actividades3.html#referencias",
     "title": "4  📚 Actividad 3: Página web con Rmarkdown",
